@@ -1,0 +1,7 @@
+//Archivo para probar rutas con la extension de visualStudio
+
+###
+GET http://localhost:4000/api/employees
+###
+POST http://localhost:4000/api/employees
+
